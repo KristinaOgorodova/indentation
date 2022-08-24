@@ -1,0 +1,39 @@
+.block2__title {
+    font-weight: 900;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.block2__text:not(:last-child) {
+    margin-bottom: 30px;
+}
+
+.image-style {
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+}
+
+.text-gray {
+    color: #5E5E5E;
+    padding: 10px 5px 20px 20px;
+    margin: 0;
+}
+
+.block2__border {
+    border: 2px solid black;
+    margin-bottom: 30px;
+}
+
+.block2__img3 {
+    width: 100%;
+}
+
+.image4,.image5 {
+    display: block;
+    margin: 0 auto;
+}
+
+.block2__img {
+    margin-bottom: 30px;
+}

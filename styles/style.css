@@ -1,0 +1,54 @@
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: black;
+}
+
+section {
+    padding-top: 50px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 120%;
+}
+
+.header__main-title {
+    margin-bottom: 30px;
+}
+
+.header__text {
+    margin-bottom: 30px;
+}
+
+.header__container {
+    margin-bottom: 50px;
+}
+
+.header__container2 {
+    background-color: #F1F1F1;
+    padding: 30px 30px 10px 40px;
+    border-radius:10px;
+}
+
+.link {
+    color: #02535F;
+    text-decoration-color: black;
+}
+
+ol {
+    color: #02535F;
+    padding-left: 30px;
+}
+
+.header__item:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.header__title {
+    font-weight: 700;
+    font-size: 44px;
+}
