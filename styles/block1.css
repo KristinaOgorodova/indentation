@@ -24,3 +24,11 @@
 .block1__container {
     margin-bottom: 30px;
 }
+
+.text2:last-child {
+    margin-bottom: 0;
+}
+
+.text3:last-child {
+    margin-bottom: 0;
+}

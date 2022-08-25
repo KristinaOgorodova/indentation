@@ -52,3 +52,7 @@ ol {
     font-weight: 700;
     font-size: 44px;
 }
+
+.text1:last-child {
+    margin-bottom: 0;
+}
