@@ -10,17 +10,14 @@ section {
     padding-top: 50px;
 }
 
-h1 {
+.header__main-title {
     font-weight: 900;
     font-size: 60px;
     line-height: 120%;
-}
-
-.header__main-title {
     margin-bottom: 30px;
 }
 
-.header__text {
+.header__text:not(:last-child) {
     margin-bottom: 30px;
 }
 
@@ -28,7 +25,7 @@ h1 {
     margin-bottom: 50px;
 }
 
-.header__container2 {
+.summary  {
     background-color: #F1F1F1;
     padding: 30px 30px 10px 40px;
     border-radius:10px;
@@ -51,8 +48,4 @@ ol {
 .header__title {
     font-weight: 700;
     font-size: 44px;
-}
-
-.text1:last-child {
-    margin-bottom: 0;
 }

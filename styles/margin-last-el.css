@@ -1,0 +1,31 @@
+.margin-last-el {
+    margin-bottom: 50px;
+}
+
+.margin-last-el__img {
+    display: block;
+    margin:0 auto;
+}
+
+.margin-last-el__text,
+.margin-last-el__list,
+.margin-last-el__img {
+    margin-bottom: 30px;
+}
+
+.example-img {
+    margin-right: 0;
+    margin-left: 0;
+    width:100%;
+}
+
+.last-title {
+    font-weight: 700;
+    font-size: 44px;
+    margin-bottom: 20px;
+}
+
+.margin-last-el__item:not(:last-child) {
+    margin-bottom: 10px;
+}
+

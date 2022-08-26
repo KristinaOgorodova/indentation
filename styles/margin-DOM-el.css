@@ -1,10 +1,5 @@
-.block2__title {
-    font-weight: 900;
-    font-size: 36px;
-    margin-bottom: 30px;
-}
 
-.block2__text:not(:last-child) {
+.margin-DOM-el__text:not(:last-child) {
     margin-bottom: 30px;
 }
 
@@ -20,20 +15,20 @@
     margin: 0;
 }
 
-.block2__border {
+.margin-DOM-el__border {
     border: 2px solid black;
     margin-bottom: 30px;
 }
 
-.block2__img3 {
+.margin-DOM-el__img-console {
     width: 100%;
 }
 
-.image4,.image5 {
+.image-example {
     display: block;
     margin: 0 auto;
 }
 
-.block2__img {
+.margin-DOM-el__img {
     margin-bottom: 30px;
 }

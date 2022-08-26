@@ -1,34 +1,29 @@
-.block1__title {
+.title {
     font-weight: 900;
     font-size: 36px;
     margin-bottom: 30px;
 }
 
-.block1__article1 {
+.margin-rules__part,
+.margin-rules__second-part {
     display: inline-block;
     vertical-align: top;
     margin-right: 30px;
+    max-width:520px;
+    margin-bottom: 30px;
 }
 
-.block1__article1:last-child {
+.margin-rules__part:last-child {
     margin-right: 0;
 }
 
-
-.block1__text {
+.margin-rules__margin-next-el:not(:last-child),
+.margin-rules__padding:not(:last-child) {
     display: block;
     width: 500px;
     margin-bottom: 30px;
 }
 
-.block1__container {
-    margin-bottom: 30px;
-}
-
-.text2:last-child {
-    margin-bottom: 0;
-}
-
-.text3:last-child {
+.margin-rules__container {
     margin-bottom: 0;
 }
