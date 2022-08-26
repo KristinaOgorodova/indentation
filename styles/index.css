@@ -1,6 +1,6 @@
 @import "normalize.css";
 @import "Global_style.css";
 @import "style.css";
-@import "block1.css";
-@import "block2.css";
-@import "block3.css";
+@import "margin-DOM-el.css";
+@import "margin-rules.css";
+@import "margin-last-el.css";

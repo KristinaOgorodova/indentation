@@ -16,12 +16,13 @@
 }
 
 .margin-DOM-el__border {
-    border: 2px solid black;
+    border: 1px solid black;
     margin-bottom: 30px;
 }
 
 .margin-DOM-el__img-console {
     width: 100%;
+    object-fit: fill;
 }
 
 .image-example {
