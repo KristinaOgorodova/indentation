@@ -8,14 +8,15 @@ body {
 }
 
 section {
-    padding-top: 50px;
+   margin-bottom: 50px;
 }
 
-.header__main-title {
+.main-title {
     font-weight: 900;
     font-size: 60px;
     line-height: 120%;
     margin-bottom: 30px;
+    padding-top: 50px;
 }
 
 .header__text:not(:last-child) {
@@ -51,10 +52,10 @@ ol {
     font-size: 44px;
 }
 
-.text_style_italic {
+.text-style-italic {
     font-style: italic;
 }
 
-.text_style_bold {
+.text-style-bold {
     font-weight: bold;
 }

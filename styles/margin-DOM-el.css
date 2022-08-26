@@ -13,16 +13,14 @@
     color: #5E5E5E;
     padding: 10px 5px 20px 20px;
     margin: 0;
-}
-
-.margin-DOM-el__border {
-    border: 1px solid black;
-    margin-bottom: 30px;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
 
 .margin-DOM-el__img-console {
     width: 100%;
-    object-fit: fill;
+    border-top: 1px solid black;
 }
 
 .image-example {
